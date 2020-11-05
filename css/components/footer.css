@@ -1,0 +1,21 @@
+.footer{
+  background-color: #2c2b2b;
+  height: 150px;
+  padding: 60px;
+
+}
+
+.links{
+
+}
+
+.footer p{
+  color: white;
+  opacity: 0.2;
+}
+
+.footer__social-media{
+  color:#1EDD88;
+  font-size: 50px;
+  margin-left: 10px;
+}
